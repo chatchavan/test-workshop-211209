@@ -1,21 +1,25 @@
 ---
-workshop_id: 
+workshop_id: CW20211209PR_01
 topic: preregistration
-title: 
-instructors: []
-instructor_emails: []
+title: Chat's test workshop on preregistration
+instructors:
+  - Chat Wacharamanotham
+instructor_emails:
+  - chat@ifi.uzh.ch
 helpers: []
 start_times:
   - 09|00
-setup_files: []
+setup_files:
+  - r
+  - videoconferencing
 language: en
-venue: null
+venue: CHI Conference 2022, online
 address: null
 country: null
 latitude: null
 longitude: null
-start_date: null
-collaborative_notes: null
+start_date: 2022-05-01T22:00:00.000Z
+collaborative_notes: https://etherpad.wikimedia.org/p/Chat_preregistration_test
 eventbrite: null
 optional_intro_sections:
   - requirements
